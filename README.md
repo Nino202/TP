@@ -14,7 +14,7 @@
         <h1 class="main_heading">Payment Form</h1>
         <p> Required Fields are followed by *</p>
         <h2>Contact Information</h2>
-        <p>Name: *<input type="text" name="Name" placeholder="monoj shahh" required></p>
+        <p>Name: *<input type="text" name="Name" placeholder="Niranjan Pawar" required></p>
         
         <fieldset>
             <legend>Gender * </legend>
